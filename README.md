@@ -45,7 +45,7 @@ POST http://localhost:3000/api/pedidos
 Body JSON:
 ```json
 {
-  "cliente": "Carlos Pérez",
+  "cliente": "Katerine",
   "producto": "Pizza mediana",
   "cantidad": 2,
   "estado": "Pendiente"
