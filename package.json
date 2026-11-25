@@ -1,0 +1,13 @@
+{
+  "name": "api-pedidos-sesion9",
+  "version": "1.0.0",
+  "description": "API REST de ejemplo para la sesi\u00f3n 9 - Aplicaciones con Enfoque Tecnol\u00f3gico",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
