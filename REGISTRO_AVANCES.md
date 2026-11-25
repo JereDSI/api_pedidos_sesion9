@@ -3,7 +3,7 @@
 | Funcionalidad | Responsable | Estado | Evidencia (commit) |
 |---|---|---|---|
 | Estructura base API | Jeremy | Completado | Inicializa proyecto API de pedidos |
-| Validación de datos | beatriz | Completado | Implementa validación de pedidos |
+| Validación de datos | beatriiz | Completado | Implementa validación de pedidos |
 | Registro de pedidos (HU-01) | Juan | Completado | Mejora registro de pedidos |
 | Consulta de pedidos (HU-02) | Matias | Completado | Integra consulta por identificador |
 | Actualización de estado (HU-03) | Avalos | Completado | Integra actualización de estados |
