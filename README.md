@@ -1,4 +1,4 @@
-# API de Pedidos - MVP (Sesión 11)
+# API de Pedidos 
 
 API REST de pedidos construida con Node.js y Express. Persiste los datos en `data/pedidos.json`.
 
